@@ -139,23 +139,22 @@ python main.py \
 ### Saliency Maps (Model Sensitivity)
 Shows which pixels contribute most to the prediction.
 
-![saliency](Saliency Map.png)
+![saliency](Saliency%20Map.png)
 
 ---
 
 ### Adversarial Attacks (PGD Example)
 Example of adversarial perturbations affecting predictions.
 
-![adversarial](Adversarial Attack.png)
+![adversarial](Adversarial%20Attack.png)
 
 ---
 
 ### Analytical Robustness
 Visualization of robustness metrics and behavior under perturbations.
 
-![robustness1](Robustness Analysis_1.png)
-![robustness2](Robustness Analysis_2.png)
-
+![robustness1](Robustness%20Analysis_1.png)
+![robustness2](Robustness%20Analysis_2.png)
 ---
 
 ## 📊 Key Insights
