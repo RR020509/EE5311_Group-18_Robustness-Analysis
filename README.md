@@ -134,6 +134,30 @@ python main.py \
 
 ---
 
+## 📊 Visualization
+
+### Saliency Maps (Model Sensitivity)
+Shows which pixels contribute most to the prediction.
+
+![saliency](Saliency Map.png)
+
+---
+
+### Adversarial Attacks (PGD Example)
+Example of adversarial perturbations affecting predictions.
+
+![adversarial](Adversarial Attack.png)
+
+---
+
+### Analytical Robustness
+Visualization of robustness metrics and behavior under perturbations.
+
+![robustness1](Robustness Analysis_1.png)
+![robustness2](Robustness Analysis_2.png)
+
+---
+
 ## 📊 Key Insights
 
 * Neural networks are **stable under random perturbations**
